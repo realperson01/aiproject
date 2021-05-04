@@ -79,3 +79,4 @@ VBox(children=(FigureWidget({
 }),), layout=Layout(border='solid …
 sorted_country_df = country_df.sort_values('confirmed', ascending= False)
 
+
